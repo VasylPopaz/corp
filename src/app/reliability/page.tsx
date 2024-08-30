@@ -1,5 +1,3 @@
-import React from "react";
-
 const RealiabilityPage = () => {
   return <div>RealiabilityPage</div>;
 };
