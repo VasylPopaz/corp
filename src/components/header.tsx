@@ -5,9 +5,7 @@ export const Header = () => {
     <header>
       <Link href="/">Home</Link>
       <Link href="/performance">Performance</Link>
-
       <Link href="/reliability">Reliability</Link>
-
       <Link href="/scale">Scale</Link>
     </header>
   );
