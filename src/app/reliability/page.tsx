@@ -7,7 +7,7 @@ const RealiabilityPage = () => {
     <Hero
       imgData={reliabilityImg}
       imgAlt="welding"
-      title="We serve high performance applications"
+      title="Super hight reliability hosting"
     />
   );
 };

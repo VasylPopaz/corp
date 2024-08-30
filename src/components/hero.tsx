@@ -11,7 +11,7 @@ export const Hero = ({ imgData, imgAlt, title }: HeroProps) => {
   return (
     <div className="relative h-screen">
       <div className="absolute -z-10 inset-0">
-        <Image src={imgData} alt={imgAlt} fill style={{ objectFit: "cover" }} />
+        <Image src={imgData} alt={imgAlt} className="object-cover" fill />
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900"></div>
       </div>
 

@@ -6,8 +6,8 @@ const ScalePage = () => {
   return (
     <Hero
       imgData={scaleImg}
-      imgAlt="welding"
-      title="We serve high performance applications"
+      imgAlt="steel factory"
+      title="Scale your app to infinity"
     />
   );
 };
